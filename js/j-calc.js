@@ -1,21 +1,14 @@
 
+function add() {}
 
+function subtract() {}
 
+function multiply() {}
 
+function divide() {}
 
-function addition(){
+function clearAll() {}
 
-}
+function eraseBack() {}
 
-function Subtraction(){
-    
-}
-function Multiplication(){
-    
-}
-function Division(){
-    
-}
-function ClearSingle(){
-    
-}
+function calculate() {}
