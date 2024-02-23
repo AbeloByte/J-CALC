@@ -20,7 +20,6 @@ body {
 }
 
 #calc-container {
-    cursor: pointer;
     display: block;
     margin: 0 auto;
     padding: 3rem .75rem 2rem;
@@ -56,7 +55,6 @@ body {
 #calc-btns {
     margin: .25rem auto;
     padding: 0;
-    
 }
 
 #calc-input,
@@ -140,9 +138,6 @@ body {
     border: .15rem solid #ff993ab7;
 }
 
-.calc-btn:nth-child(4){
-    color: #ffa513;
-}
 .calc-btn-2-col {
     height: 6.5rem;
     border-radius: 1.5rem;
@@ -151,16 +146,4 @@ body {
 .calc-row-3-1 {
     display: flex;
     justify-content: space-between;
-}
-
- .calc-btn-2-col,.calc-bg-equal {
-    background-color: #ff9f05 ;
-    color: #333;
-}
-
-.calc-row-1 {
-    color: #ffb92d;
-}
-#calc-result{
-    color: #ffb92d;
 }
